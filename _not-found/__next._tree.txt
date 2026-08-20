@@ -1,2 +1,2 @@
-:HL["/captain-meowball-pages/_next/static/chunks/0asisaxwb~.dw.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"KrhK6KzDyCcS1yU-Jyh4b"}
+:HL["/captain-meowball-pages/_next/static/chunks/0jyqs_eff5jde.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"EX49Ql8MeHREScwZq0bef"}

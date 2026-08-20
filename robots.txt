@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /captain-meowball-pages/
+
+Host: https://b1axk-bit.github.io
+Sitemap: https://b1axk-bit.github.io/captain-meowball-pages/sitemap.xml
